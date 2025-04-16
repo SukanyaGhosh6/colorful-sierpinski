@@ -42,7 +42,7 @@ The Sierpiński Triangle is a famous fractal named after Polish mathematician Wa
 
 ```bash
 # Clone the repository
-git clone https://github.com/sukanyaghosh/fractal-art-sukanya.git
+git clone https://github.com/SukanyaGhosh6/fractal-art-sukanya.git
 cd fractal-art-sukanya
 
 # Run the script
