@@ -9,9 +9,7 @@ A visually stunning recursive **Sierpiński Triangle** fractal created using Pyt
 
 | Fractal Output Samples |
 |------------------------|
-| ![](![Screenshot (382)](https://github.com/user-attachments/assets/78ed158f-06b7-4233-ba74-39bd6293d5b3)
-)
-) |
+
 | ![](![Screenshot (383)](https://github.com/user-attachments/assets/1bf1c1e8-8b8d-4ebc-8840-7be565e3d9e0)
 )
 ) |
